@@ -77,9 +77,14 @@ The generated CSV file may contain the following fields:
 🌟 Why Use Business Data Extractor?
 
 ✅ Reduces manual data entry and processing time
+
 ✅ Improves consistency and accuracy of extracted information
-✅ Supports scalable processing of large batches of HTML files
+
+✅ Supports scalable processing of large 
+batches of HTML files
+
 ✅ Produces analysis-ready CSV outputs
+
 ✅ Ideal for reporting, auditing, migration, and record management tasks
 
 📌 Disclaimer
