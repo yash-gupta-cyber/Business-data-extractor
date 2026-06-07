@@ -44,10 +44,10 @@ This tool helps save time, improve accuracy, and reduce manual effort.
 ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/business-data-extractor.git
-2. Navigate to the project directory:
+   git clone https://github.com/yash.gupta.cyber/business-data-extractor.git
+3. Navigate to the project directory:
    cd business-data-extractor
-3. Install any required dependencies:
+4. Install any required dependencies:
    pip install -r requirements.txt
 
 ▶️ Usage
