@@ -18,13 +18,21 @@ This tool helps save time, improve accuracy, and reduce manual effort.
 ✨ Features
 
 ✅ Automatically extracts Business Names
+
 ✅ Captures Email Addresses with precision
+
 ✅ Identifies Phone Numbers from HTML content
+
 ✅ Extracts Nature of Business information
+
 ✅ Retrieves Applicant Names
+
 ✅ Collects Business Addresses
+
 ✅ Exports structured data directly to CSV
+
 ✅ Efficiently processes multiple HTML response files
+
 ✅ Fast, reliable, and easy to integrate into workflows
 
 🛠️ Technologies Used
